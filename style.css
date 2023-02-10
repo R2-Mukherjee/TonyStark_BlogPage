@@ -1,0 +1,44 @@
+section.header {
+    background-image: url(https://w0.peakpx.com/wallpaper/602/994/HD-wallpaper-iron-man-come-by-iron-man-superheroes-artwork-artist.jpg);
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+section.header p{
+    color: white;
+}
+
+section p.name {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    margin-bottom: 0px;
+    /* text-shadow: 4px 4px 4px #aaa; */
+}
+
+section.header {
+    justify-content: center;
+    display: flex;
+}
+
+section.image_container {
+    display: flex;
+}
+
+section.image_container img {
+    /* display: flex; */
+    width: 60%;
+    margin: auto;
+    border-radius: 200px;
+}
+section.name p {
+    font-size: 16px;
+    padding-left: -11px;
+}
+
+section.about {
+    padding-right: 60px;
+}
+
